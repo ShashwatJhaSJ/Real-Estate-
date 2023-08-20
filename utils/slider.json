@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Lodha Amara",
+    "price": "85 Lac",
+    "detail": "Lodha Amara, Kolshet Rd, Kolshet Industrial Area, Thane West, Thane, Maharashtra",
+    "image": "./th.jpeg"
+  },
+  {
+    "name": "Oberoi Sky City",
+    "price": "3.50 Cr",
+    "detail": "Western Express Highway, Borivali East, Mumbai, Maharashtra 400066",
+    "image": "./h1.jpeg"
+  },
+  {
+    "name": "JP North Garden City",
+    "price": "66 Lac",
+    "detail": "Kashimira Road, Mira Road (E), 401107, Mumbai, Maharashtra 401107 ",
+    "image": "./s1.jpeg"
+  },
+  {
+    "name": "Oberoi Garden City",
+    "price": "5.61 Cr",
+    "detail": "Off Western Express Highway,Goregaon (East), Mumbai 400063.",
+    "image": "./ob.jpeg"
+  },
+  {
+    "name": "Chandak Nishchay",
+    "price": "89 Lac",
+    "detail": "Next to Parbat Nagar, S. V. Road, Dahisar (E), Mumbai, Maharashtra 400068",
+    "image": "./ch.jpeg"
+  },
+  {
+    "name": "Lodha Enchante",
+    "price": "1.99 Cr",
+    "detail": "Lodha Enchante,New Cuffe Parade ,Off Eastern Freeway,Wadala",
+    "image": "./hi.jpeg"
+  }
+]
